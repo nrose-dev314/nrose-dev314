@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Nathan 👋
 
-<!--
-**nrose-dev314/nrose-dev314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate from the University of Missouri–St. Louis (B.S., December 2026) who likes working close to the machine: operating systems, compilers, and the C/C++ that holds them together.
 
-Here are some ideas to get you started:
+Before software, I spent more than 10 years in management, including six years as a General Manager running three stores and a team of about 20. I bring that same focus on reliability, communication, and getting things done to every project I build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 What I work with
+Languages: C++, C, Python, Java, JavaScript, HTML/CSS
+Tools: Linux, git, Make, gcc/g++, VS Code, WSL
+Interests: systems programming, operating systems, compilers and language tools
+
+📫 Get in touch
+LinkedIn: linkedin.com/in/nathan-rose-301461322
+Based in St. Louis, MO, and open to entry-level software development roles
